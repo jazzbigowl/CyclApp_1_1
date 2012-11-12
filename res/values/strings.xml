@@ -1,11 +1,15 @@
 <resources>
 
-    <string name="app_name">CyclApp_1_1</string>
+    <string name="app_name">CyclApp</string>
     <string name="menu_settings">Settings</string>
     <string name="menu_exit">Exit</string>
     <string name="title_activity_main">CycleApp</string>
     <string name="map_name">Map</string>
     <string name="preferences_name">Settings</string>
+    <string name="about_text">CyclApp is an Android application created to aid bicycle riders. This app is the shizzle.</string>
+    <string name="about_name">About CyclApp</string>
+
+    <!-- SatNav Screen -->
     <string name="location_label">not found &#8230;</string>
     <string name="find_location_title">Location:</string>
     <string name="view_map_button_label">View Map</string>
@@ -19,6 +23,13 @@
     <string name="timer_label">Press start!</string>
     <string name="average_speed_title">Average speed:</string>
     <string name="average_speed_label">Press start!</string>
-    
+
+    <!-- Home Screen -->
+    <string name="title_activity_home">CycleApp bithes!</string>
+    <string name="home_title">Home</string>
+    <string name="sat_nav_button_label">Satelite Navigation</string>
+    <string name="view_past_rides_button_label">View Past Rides</string>
+    <string name="about_button_label">About This App</string>
+    <string name="exit_button_label">Exit</string>
 
 </resources>
